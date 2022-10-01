@@ -8,7 +8,6 @@
 ![name2](https://img.shields.io/static/v1?label=&message=malt1%20&color=555&style=flat-square)
 
 ![asl](https://img.shields.io/static/v1?label=&message=A%2FL%3A&color=111&style=flat-square)
-![asl2](https://img.shields.io/static/v1?label=&message=16%2C%20mg%2C%20Brazil&color=555&style=flat-square)
 
 ![occupation](https://img.shields.io/static/v1?label=&message=entusiasta%3A&color=111&style=flat-square)
 ![occupation2](https://img.shields.io/static/v1?label=&message=pentest/infosec%20%20&color=555&style=flat-square)
