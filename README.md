@@ -1,6 +1,6 @@
 # Welcome to my github 🐉
 
-<img align="left" src="https://i.pinimg.com/564x/80/5b/d9/805bd9746cc1b552ce07f9c105df9328.jpg" width="300" height="360" />
+<img align="left" src="https://i.pinimg.com/originals/79/8d/e4/798de415648b7a715c90965e7e73dbb1.gif" width="300" height="360" />
 
 ## about me.
 
